@@ -1,0 +1,56 @@
+/* css styles */
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.about-links {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 6px;
+  justify-content: flex-start;
+}
+
+.about-link {
+  padding: 0.4rem 0.6rem !important;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.about-link-text {
+  margin-left: 4px;
+}
+
+#quarto-content.quarto-container {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+@media (max-width: 767px) {
+  .about-links {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #quarto-content.quarto-container {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  .quarto-title-banner,
+  .navbar .container-fluid {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}
+
+.quarto-about-trestles {
+  margin-left: -12px;
+  margin-right: -12px;
+}
+
+@media (max-width: 767px) {
+  .quarto-about-trestles {
+    margin-left: -8px;
+    margin-right: -8px;
+  }
+}

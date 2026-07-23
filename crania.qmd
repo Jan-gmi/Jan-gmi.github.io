@@ -1,0 +1,40 @@
+---
+title: "CRANIA Conference"
+---
+
+Thank you for stopping by my poster today!
+
+![Machine Learning-Based Prediction of Pain Relief Following Surgery for Trigeminal Neuralgia — CRANIA Conference 2026.](files/images/poster_conference.jpg)
+
+---
+
+## Connect With Me
+
+I am a recent Honours BSc Neuroscience graduate and incoming MHSc student in the Translational Research Program at the University of Toronto, currently working in the Hodaie Lab at the Krembil Brain Institute. My research applies machine learning and radiomic analysis to predict surgical outcomes in trigeminal neuralgia. I am always glad to discuss this work, related methods, or potential collaboration, and I would welcome the chance to connect with Principal Investigators, clinicians, and researchers working in adjacent areas.
+
+**Email:** [jana.mahmoud@mail.utoronto.ca](mailto:jana.mahmoud@mail.utoronto.ca) | **LinkedIn:** [linkedin.com/in/jana0511](https://linkedin.com/in/jana0511)
+
+---
+
+## Connect With NeurotechUofT
+
+Beyond my own research, I serve as Co-President of Operations for **NeurotechUofT**, the University of Toronto's undergraduate neuroengineering design team. We work across neuroscience, software, hardware, education, and research portfolios, and we actively benefit from Principal Investigator support and partnership on R&D projects.
+
+We are currently building a new collaboration with **Dr. Taufik Valiante and CRANIA Lab**, and recently partnered with **Dr. Hans Katzberg** on our Post-Stroke Rehabilitation (PSR) project:
+
+> *"We're excited to announce a new collaboration with Dr. Hans Katzberg for the Post-Stroke Rehabilitation project! Through research and clinical care, HDK Neuromuscular aims to improve daily lives of patients living with neuromuscular disease. We're thrilled to be working together on upcoming initiatives for the PSR project!"*
+
+Dr. Katzberg's support included $2,000 in funding to help advance this work.
+
+If you are a Principal Investigator or researcher interested in partnering with NeurotechUofT on an R&D project, we would love to connect. Book a 20-minute coffee chat with me and the NeurotechUofT team below, or visit our website to learn more.
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/jana-mahmoud-mail/20?hide_gdpr_banner=1&background_color=e1d7f3&primary_color=8855b9" style="min-width:320px;height:480px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+### Official NeurotechUofT Website
+
+<iframe src="https://neurotechuoft.ca/about" style="width:100%; height:800px; border:1px solid #ddd; margin-top:10px;"></iframe>
+
+If the page above doesn't load, you can visit it directly at [neurotechuoft.ca/about](https://neurotechuoft.ca/about).

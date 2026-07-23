@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jana Mahmoud"
+  page-footer:
+    left: "Jana Mahmoud &copy; 2026"
+    right: "Built with [Quarto](https://quarto.org/)"
+  navbar:
+    left:
+      - href: index.html
+        text: About Me
+      - href: crania.html
+        text: CRANIA Conference
+      - href: research.html
+        text: Research
+      - href: leadership.html
+        text: Leadership
+      - href: contact.html
+        text: "Contact & Collaborate"
+
+format:
+  html:
+    theme: cosmo
+    css: styles_v2.css
+    toc: false

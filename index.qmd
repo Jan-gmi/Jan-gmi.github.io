@@ -1,0 +1,31 @@
+---
+title: "Jana Mahmoud, HBSc"
+image: files/images/profile_v3.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:jana.mahmoud@mail.utoronto.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/jana0511
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/jana.uari/
+---
+
+I am an incoming MHSc student in the [Translational Research Program](https://lmp.utoronto.ca/programs/translational-research-program) at the Temerty Faculty of Medicine, University of Toronto, and a recent Honours BSc Neuroscience graduate from the University of Toronto.
+
+My research is conducted in the [Hodaie Lab](https://www.krembilresearch.ca/) at the Krembil Brain Institute, Toronto Western Hospital, under the supervision of Dr. Mojgan Hodaie, where I work on machine learning-based prediction of surgical outcomes in trigeminal neuralgia. I am also Co-President of Operations for [NeurotechUofT](https://neurotechuoft.ca/about), the University of Toronto's undergraduate neuroengineering design team, currently building a new collaboration with Dr. Taufik Valiante and CRANIA Lab at Krembil Brain Institute.
+
+In my spare time, I am an avid café hopper always chasing a good matcha, a photography enthusiast, an occasional sketcher, and someone who loves a good back-and-forth discussion as much as a quiet walk near water.
+
+### Education
+
+- MHSc, Translational Research Program, Temerty Faculty of Medicine, University of Toronto | 2026 – 2028
+- Honours BSc, Neuroscience (Minors: Psychology & Physiology), University of Toronto | 2022 – 2026
+- Lab2Market Discover National Program, Aging and Brain Health Cohort | 2026
+
+A full CV can be shared upon request or as part of a specific application. Feel free to reach out on the [Contact & Collaborate](contact.html) page.

@@ -1,0 +1,59 @@
+---
+title: "Research"
+---
+
+![Presenting "Machine Learning-Based Prediction of Pain Relief Following Surgery for Trigeminal Neuralgia" at CAN-ACN 2026.](files/images/poster_full.jpg)
+
+### Current Project
+
+**Machine Learning-Based Prediction of Pain Recurrence Following Trigeminal Neuralgia Surgery**
+Hodaie Lab, Toronto Western Hospital Krembil Brain Institute | Sept 2025 – Apr 2026
+Principal Investigator: Mojgan Hodaie, MD, MSc, FRCSC | Supervisor: Jerry Li, PhD Candidate
+
+Curated a multimodal dataset of 350+ trigeminal neuralgia patients from the TWH facial pain clinic, extracting clinical variables from EPIC EMR. Developed machine learning classification models (XGBoost, SHAP) for individualized pain-free survival estimation and recurrence prediction, using PyRadiomics for radiomic feature extraction from high-resolution MRI and SHAP-based interpretability analyses to identify key predictive biomarkers.
+
+### Past Projects
+
+**Pregnancy During the COVID-19 Pandemic (PdCP) Associated with Altered Infant Brain Connectivity**
+Manning Lab, Hospital for Sick Children | January 2026
+
+Led development of a multimodal neuroimaging pipeline linking DTI-based structural connectivity with resting-state functional connectivity to examine how prenatal COVID-19 exposure alters white-matter microstructure and functional coupling in the developing brain.
+
+**Investigating the Representational Transformations Underlying the Learning of Exceptions in Visual Categories**
+Mack Lab, Center for Biological Timing & Cognition | Jan 2023 – Aug 2025
+
+Managed end-to-end participant coordination across concurrent fMRI study cohorts and conducted quality control review of 70+ MRI scans at the Toronto Neuroimaging Facility (ToNI).
+
+**Utilizing Dragonfly ORS AI Tools for Improved Rabbit Lung Micro-CT Scan Image Segmentation in VILI/ARDS Analysis**
+Zhang Lab, St. Michael's Hospital, Unity Health Toronto | Sept 2023 – Apr 2024
+
+Analyzed 100+ micro-CT scan files and implemented Dragonfly ORS and FreeSurfer software for automated lung segmentation, comparing manual and automated segmentation accuracy.
+
+**ANGLER-FISH: An In Situ Approach to Resolve Related mRNAs in Neuronal Wiring and Cell Transplantation Models**
+Lefebvre Lab, Hospital for Sick Children | May – Sept 2023
+
+Medicine by Design Program, SSuRE Program ($10,000 Studentship Award). Implemented the ANGLER-FISH pipeline for oligonucleotide probe design and FISH labeling to map related mRNA transcripts in CNS tissues.
+
+### Manuscript in Preparation
+
+- Mahmoud, J., Li, J., Garcia-Flores, E., Wolfensohn, A., Hodaie, M. *Machine Learning-Based Prediction of Pain Recurrence Following Trigeminal Neuralgia Surgery.*
+
+### Presentations & Posters
+
+- Mahmoud, J., Li, J., Garcia-Flores, E., Wolfensohn, A., Hodaie, M. *Machine Learning-Based Prediction of Pain Recurrence Following Trigeminal Neuralgia Surgery.* CRANIA Conference 2026. Upcoming July 2026. (Poster)
+- Mahmoud, J., Li, J., Garcia-Flores, E., Wolfensohn, A., Hodaie, M. *Machine Learning-Based Prediction of Pain Recurrence Following Trigeminal Neuralgia Surgery.* CAN-ACN 19th Canadian Neuroscience Meeting. May 2026. (Poster)
+- Mahmoud, J., Li, J. *Machine Learning-Based Prediction of Pain Recurrence Following Trigeminal Neuralgia Surgery.* Trinity College Undergraduate Research Conference (TCURC). March 2026. (Oral)
+- Mahmoud, J., Bhatt, N., Vazquez, E., Batajoo, M., James, K. *PDCP Functional Structural Multimodal Pipeline.* BrainHack Global Toronto 2026. January 2026. (Oral)
+- Mahmoud, J., Lu, C., Zhang, H. *Bioimaging & Molecular Insights: Applications in Neuroscience Research.* ASSU Research Conference. 2024. (Oral)
+- Mahmoud, J., Lu, C., Zhang, H. *AI-Based Lung Segmentation in Preclinical Imaging.* UofT ROP Poster Symposium. March 2024. (Poster)
+- Mahmoud, J. *Computational Approaches to Neuroimaging Analysis.* HMB Neuroscience Symposium. Fall 2024. (Poster)
+- Mahmoud, J., Ali, I., Chou, L., Lefebvre, J. *ANGLER-FISH: Spatial Transcriptomic Approaches for mRNA Visualization.* SickKids Summer Student Research Symposium. August 2023. (Oral)
+- Mahmoud, J., Ali, I., Chou, L., Lefebvre, J. *Advances in Retinal Cell Transplantation Research.* ASSU Research Conference (ASSU URC). 2023. (Poster)
+
+### Academic Lecturing Invitations
+
+- Mahmoud, J. *Research in Neuroimaging and Computational Neuroscience.* NANSA Research Seminar in Neuroscience. February 2026. (Speaker & Panelist)
+- Mahmoud, J. *Graduate Panel in Science.* Faculty of Arts & Science, First Year Learning Community, Innis College. March 2026. (Panelist)
+- Mahmoud, J. *Human Biology Student Union (HBSU) Bi-annual Road to Research.* 2025. (Speaker)
+
+A full CV can be shared upon request or as part of a specific application. Feel free to reach out on the [Contact & Collaborate](contact.html) page.
